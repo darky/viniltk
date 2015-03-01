@@ -1,0 +1,1 @@
+$("a[data-rel]").each(function(){$(this).attr("rel",$(this).attr("data-rel")).removeAttr("data-rel")}),$("a[rel^='prettyPhoto']").prettyPhoto(),jQuery("a[rel^='prettyPhoto'], a[rel^='lightbox']").prettyPhoto({overlay_gallery:!1,social_tools:!1,deeplinking:!1});

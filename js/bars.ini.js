@@ -1,0 +1,1 @@
+!function(t){t(document).ready(function(){t("#bars").waypoint(function(){t(".progress-bar").each(function(a){var n=t(this).delay(200).attr("data-width");t(this).delay(100*a).animate({width:n},300)})},{offset:"100%"})})}(jQuery);
