@@ -1,0 +1,1 @@
+$(".parallax-project-celica-1").parallax(null,-.5),$(".parallax-project-celica-2").parallax(null,-.7),$(".parallax-project-celica-3").parallax(null,.7);

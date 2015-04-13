@@ -1,1 +1,0 @@
-!function(){var a=location.pathname;"/"!==location.pathname&&(a=location.pathname.replace(/\/$/,"")),$("[href='"+a+"']").parents(".nav > li").children("a").addClass("active")}();
